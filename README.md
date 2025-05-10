@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# cf-archive
-=======
 # compprog
 
 ## Description
@@ -13,4 +10,3 @@ The purpose of this repository is to show my accepted competitive programming pr
 * **Languages**: C++
 * **Topics**: Greedy Algorithms, Sorting/Searching, Graph Theory, Dynamic Programming
 * **Tools**: Git, GitHub, Visual Studio Code
->>>>>>> 2cd57991288dd1158d9a01a96ae90f38459f332e
